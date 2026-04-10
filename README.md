@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##The Generative Text Model is a deep learning-based system designed to automatically generate meaningful and coherent text based on a given input prompt. In this project, a Long Short-Term Memory (LSTM) neural network is used to learn patterns and relationships between words in a dataset.
+The Generative Text Model is a deep learning-based system designed to automatically generate meaningful and coherent text based on a given input prompt. In this project, a Long Short-Term Memory (LSTM) neural network is used to learn patterns and relationships between words in a dataset.
 
 The model is trained on a sample text corpus, where it learns sequences of words and predicts the next word in a sentence. This process involves tokenizing the text into numerical sequences, padding them to maintain equal length, and feeding them into the LSTM model.
 
